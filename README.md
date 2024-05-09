@@ -1,3 +1,4 @@
 # Movie-Recommendation-System-using-Machine-Learning
-![image](https://github.com/Poojamotekar/Movie-Recommendation-System-using-Machine-Learning-with-Python/assets/66488693/ea5fb567-7d22-4178-8fa3-a8d98f0fd590)
+![image](https://github.com/Poojamotekar/Movie-Recommendation-System-using-Machine-Learning-with-Python/assets/66488693/4bb175ee-c1e5-4a8d-98ec-59e8f6b08970)
+
 
